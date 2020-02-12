@@ -1,1 +1,1 @@
-# the program named "Asn2-q6-solution" was designed to handle a query of two terms by using TFIDF for chosen search engine.
+# This repository is used for storing assignments and works of course 7990 Big Data Analytics, and the program named "Asn2-q6-solution" was designed to handle a query of two terms by using TFIDF for chosen search engine.
