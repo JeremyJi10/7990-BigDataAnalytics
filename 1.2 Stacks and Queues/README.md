@@ -1,6 +1,6 @@
 ## Part 1, Week 2 - [Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) 
 ### Dequeue
-A deque (pronounced “deck”) is a generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure, 
+A deque, pronounced “deck”, is a generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure, 
 this implementation used a **doubly linked list** approach to satisfy the performance requirements.\
 \
 (***Constant worst-case time** for each deque and iterator operation; **48n + 192 bytes of memory usage** for a deque containing n items at most.*) 
