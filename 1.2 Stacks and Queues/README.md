@@ -10,4 +10,4 @@ this implementation used a **resizing array** approach to satisfy the performanc
 \
 (***Constant amortized time** for each randomized queue operation (besides creating an iterator); 
 **48n + 192 bytes of memory usage** for a randomized queue containing n items at most;
-**constant worst-case time** for hasNext() and next(); **linear time** for iterator construction.*)
+**constant worst-case time** for* `hasNext()` *and* `next()`*; **linear time** for iterator construction.*)
